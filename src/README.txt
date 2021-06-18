@@ -18,7 +18,7 @@ Processing Classes:
 
 	b. Output
 		For outputting, log4j library is used. With the help of a Config File, this logger lets the user decide on the level of logging.
-		One of the log levels Debug, Info or Error are to be choosen. Their priorities are as followed and once a level is choosen, levels with lower priorities are also displayed.
+		One of the log levels Debug, Info or Error are to be chosen. Their priorities are as followed and once a level is chosen, levels with lower priorities are also displayed.
 		These levels mentioned are the 'Root Level' which is located at the 'log4j2.xml' configuration file.
   
 	c. Side Effects:
@@ -31,4 +31,3 @@ Processing Classes:
 		The program throws 2 custom Exceptions.
 			InvalidInputException-Thrown if any Comperative Degree is not numeric.
 			InvalidValueasComparativeDegreeException-Thrown if any Comperative Degree is 0.
-			
