@@ -51,7 +51,7 @@ Decisions are performed by gathering the importance of each parameter (the so ca
   
 ### Sample Input
 <p align="center">
-  <img src="screenshots/sampleInputFile.png" width="850" height="300" />
+  <img src="screenshots/sampleInputFile.png" />
 </p>
 
 ### Sample Output (Log File)
