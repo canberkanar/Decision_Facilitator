@@ -1,0 +1,9 @@
+,Education,Charisma,Speech
+Education,1,6,5
+Charisma,0.166666667,1,0.25
+Speech,,,1
+,,,
+Charisma,Length,Weight,Eye Color
+Length,1,7,9
+Weight,,1,6
+Eye Color,,,1

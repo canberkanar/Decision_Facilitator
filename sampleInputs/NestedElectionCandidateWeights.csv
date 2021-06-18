@@ -1,0 +1,16 @@
+,Education,Charisma,Speech,,
+Education,1,6,5,,
+Charisma,0.166666667,1,0.25,,
+Speech,,,1,,
+,,,,,
+Education,Master,Bachelor,High School,Elementary,Kindergarten
+Master,1,6,7,8,9
+Bachelor,0.1666666667,1,6,7,8
+High School,0.125,0.1428571429,1,5,5
+Elementary,,,,1,4
+Kindergarten,,,,,1
+,,,,,
+High School,Mathematics,Physics,Biology,,
+Mathematics,1,6,8,,
+Physics,,1,7,,
+Biology,,,1,,
