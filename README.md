@@ -55,19 +55,19 @@ The program uses AHP Algorithm to calculate the weights of given criteria. Commo
 </p>
 
 ### Sample Output (Log File)
-18:10:43.447 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP -   
+> 18:10:43.447 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP -   
 Consistency Index: 0.0816172661339456  
 Consistency Ratio: 9.068585125993955%  
-  
-18:10:43.448 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Weights  
+>  
+> 18:10:43.448 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Weights  
 18:10:43.450 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Education: 70.90526651547414  
 18:10:43.450 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Charisma: 7.91105362330272  
 18:10:43.450 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Speech: 21.18367986122314  
 18:10:43.451 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP -  
 Consistency Index: 0.22573049660805333  
 Consistency Ratio: 18.204072307101075%  
-  
-18:10:43.451 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Weights  
+>  
+> 18:10:43.451 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Weights  
 18:10:43.451 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Master: 40.79028205087167  
 18:10:43.451 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Bachelor: 17.840690537526008  
 18:10:43.451 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - High School: 7.085999597348055  
@@ -76,8 +76,8 @@ Consistency Ratio: 18.204072307101075%
 18:10:43.452 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP -  
 Consistency Index: 0.15669145255400752  
 Consistency Ratio: 17.410161394889723%  
-  
-18:10:43.452 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Weights  
+>  
+> 18:10:43.452 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Weights  
 18:10:43.453 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Mathematics: 5.204209163899872  
 18:10:43.453 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Physics: 1.5074974766065161  
 18:10:43.453 [main] INFO  com.decisionFacilitation.ahp.WeightsAHP - Biology: 0.3742929568416666  
